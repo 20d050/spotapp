@@ -1,2 +1,2 @@
-SSID=20d050
+SSID='20d050'
 SNAME=okazaki!A2:K1000
